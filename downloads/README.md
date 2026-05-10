@@ -1,6 +1,7 @@
 # Downloaded list :
 
 - [Gemma-4-E4B-Uncensored-HauhauCS-Aggressive-Q6_K_P](./Gemma-4-E4B-Uncensored-HauhauCS-Aggressive-Q6_K_P)
+- [hls-250p-82b19](./hls-250p-82b19)
 - [mmproj-Gemma-4-E4B-Uncensored-HauhauCS-Aggressive-f16](./mmproj-Gemma-4-E4B-Uncensored-HauhauCS-Aggressive-f16)
 
 ---
