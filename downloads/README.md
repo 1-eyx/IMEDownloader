@@ -9,6 +9,9 @@
 - [c61304bb-184c-4f24-a52c-14cfe01fdf71](./c61304bb-184c-4f24-a52c-14cfe01fdf71)
 - [mmproj-Gemma-4-E4B-Uncensored-HauhauCS-Aggressive-f16](./mmproj-Gemma-4-E4B-Uncensored-HauhauCS-Aggressive-f16)
 - [qwen-image-2512-Q2_K](./qwen-image-2512-Q2_K)
+- [torch-2.10.0%2Bcu128-cp313-cp313-win_amd64](./torch-2.10.0%252Bcu128-cp313-cp313-win_amd64)
+- [torchaudio-2.10.0%2Bcu128-cp313-cp313-win_amd64](./torchaudio-2.10.0%252Bcu128-cp313-cp313-win_amd64)
+- [torchvision-0.25.0%2Bcu128-cp313-cp313-win_amd64](./torchvision-0.25.0%252Bcu128-cp313-cp313-win_amd64)
 
 ---
 
